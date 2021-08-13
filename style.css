@@ -1,0 +1,53 @@
+.fa {
+	font-size: 18px;
+}
+
+.page-header-image {
+	background-image: url("backgroundbikini.jpg");
+}
+
+.clear-filter{    
+	background: linear-gradient(0deg,rgba(62,120,141,.2),rgba(0,0,0,.8));
+}
+
+.brand .h1-seo{
+	font-size: 3.2rem;
+}
+
+.sidebar-collapse .navbar-collapse::before{
+    /*Truesculpt id colors: 
+    Purple: rgb(98,41,135)
+    Green: rgb(115,187,96) 80%)
+    Blue:  rgb(138,195,235)*/
+    background: linear-gradient(rgb(69,29,95),rgb(92,150,77) 80%);
+/*  opacity: 1;
+here I can set opacity for the sidebar if desired*/
+}
+
+.section {
+	padding-top: 10px;
+}
+
+#carousel-title {
+	padding: 0;
+}
+
+#trusculpt-img {
+	max-height: 500px;
+}
+
+.fa-suscribe {
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-12px,-12px);
+	line-height: 1.5626rem;
+	width: 23px;
+}
+
+.fa-big {
+	font-size: 30px;
+}
+
+
+    /*font-family: Montserrat,Helvetica Neue,Arial,sans-serif;*/
