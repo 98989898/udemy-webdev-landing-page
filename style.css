@@ -33,7 +33,7 @@ here I can set opacity for the sidebar if desired*/
 }
 
 #trusculpt-img {
-	max-height: 500px;
+	max-height: 480px;
 }
 
 .fa-suscribe {
@@ -49,5 +49,43 @@ here I can set opacity for the sidebar if desired*/
 	font-size: 30px;
 }
 
+.card {
+	background: linear-gradient(rgb(69,29,95),rgb(92,150,77));
+}
 
-    /*font-family: Montserrat,Helvetica Neue,Arial,sans-serif;*/
+.center {
+	margin: auto;
+}
+
+.center2 {
+	text-align: center;
+}
+
+
+#middle-content {
+	margin: 0;
+	padding: 40px 0px;
+}
+
+.section-middle {
+	background-color: rgb(34, 34, 34);
+	color: #fff;
+	padding: 70px 0;
+}
+
+@media only screen and (min-width: 1200px) {
+  .container {
+    max-width: 1300px;
+  }
+}
+
+.section-signup {
+	background-image: url('assets/img/bg11.jpg');
+	background-size: cover;
+	background-position:
+	top center;
+}
+
+h4 {
+	margin: 40px 0px;
+}
