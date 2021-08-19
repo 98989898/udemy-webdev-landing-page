@@ -89,3 +89,30 @@ here I can set opacity for the sidebar if desired*/
 h4 {
 	margin: 40px 0px;
 }
+
+.contributors {
+	float: left;
+	font-size: .8571em;
+}
+
+
+li[data-target="#carouselExampleIndicators"] {
+	background-color: rgb(208, 208, 208);
+}
+
+.carousel-indicators .active {
+    background-color: rgb(170, 170, 170);
+}
+
+.carousel-control-prev i, .carousel-control-next i {
+	font-size: 18px;
+}
+
+.footer a:link { text-decoration: none; }
+
+.footer a:visited { text-decoration: none; }
+
+.footer a:hover { text-decoration: none; }
+
+.footer a:active { text-decoration: none; }
+
